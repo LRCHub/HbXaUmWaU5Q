@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "忘れられないの",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-02T13:20:21.734157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "忘れられないの",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/01_忘れられないの_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "忘れられないの",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_忘れられないの_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "忘れられないの",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_忘れられないの_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "忘れられないの",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/04_忘れられないの_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "忘れられないの",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/05_忘れられないの_Sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wasurerarenaino [忘れられないの]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/06_Wasurerarenaino_[忘れられないの]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "忘れられないの - Wasurerarenaino",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/07_忘れられないの_-_Wasurerarenaino_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サカナクション / 忘れられないの　-Music Video-",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/08_サカナクション___忘れられないの_-Music_Video-_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "忘れられないの",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/09_忘れられないの_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "忘れられないの",
+      "artist": "Video, sakanaction",
+      "has_synced": true,
+      "path": "select/10_忘れられないの_Video,_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忘れられないの",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_忘れられないの_サカナクション.txt"
+    }
+  ]
+}
